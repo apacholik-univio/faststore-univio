@@ -1,0 +1,1 @@
+export { CallToActionPacholik as default } from "./CallToActionPacholik"

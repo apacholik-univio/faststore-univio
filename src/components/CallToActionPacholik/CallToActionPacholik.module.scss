@@ -1,0 +1,14 @@
+.callToActionPacholik {
+    @import '@faststore/ui/src/components/atoms/Link/styles.scss';
+    margin: 1.5rem 0px;
+    width: 100%;
+    
+    & > div {
+      margin: 0px auto;
+      width: calc(842px - 24px - 24px);
+      max-width: calc(1280px - 1.5rem - 1.5rem);
+      padding: 1.5rem 1.5rem;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+}
